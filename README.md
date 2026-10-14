@@ -6,7 +6,7 @@ A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking
 
 ---
 
-## 📐 Scale Standard & Precision
+## 📐 Scale
 
 * **Global Scale Ratio:** `1 mm ≈ 3.778 px`
 
@@ -19,7 +19,7 @@ A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking
 
 ---
 
-## 🛠️ Supported Devices (106)
+## 🛠️ Supported Devices
 
 <details>
 <summary><b>Routers & Core Routers (40)</b></summary>
