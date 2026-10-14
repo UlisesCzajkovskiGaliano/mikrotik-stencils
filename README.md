@@ -1,14 +1,12 @@
 # MikroTik Vector Stencils & Icons for Figma, Visio & Illustrator
 
-A comprehensive collection of 100+ precise 2D vector stencils and diagrams for **MikroTik** networking hardware. Designed at a 1:1 scale ratio for professional network topology diagrams in **Figma**, **Visio**, **Adobe Illustrator**, or any SVG-compatible vector editor.
+A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking hardware. Designed for network topology diagrams in **Figma**, **Visio**, **Adobe Illustrator**, or any SVG-compatible vector editor.
 
-![MikroTik Stencils Preview](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/svg/routers/RB1000U.svg)
+![MikroTik Stencils Preview](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB1000U.svg)
 
 ---
 
 ## 📐 Scale Standard & Precision
-
-To ensure seamless module, transceiver, and patch cable alignment across all chassis models:
 
 * **Global Scale Ratio:** `1 mm ≈ 3.778 px`
 * **Standard RJ45 Port Width:** `51 px` (~13.5 mm)
@@ -18,9 +16,8 @@ To ensure seamless module, transceiver, and patch cable alignment across all cha
 
 ## 📂 Repository Structure
 
-* `svg/routers/`: Edge routers, core routers, CPEs, and desktop units.
-* `svg/switches/`: Managed switches, smart switches, and rackmount units.
-* `svg/outdoor/`: Weatherproof IP-rated enclosures and outdoor switches.
+* `routers/`: Edge routers, core routers, CPEs, and desktop units.
+* `switches/`: Managed switches, smart switches, rackmount units, and outdoor enclosures.
 
 ---
 
