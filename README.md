@@ -9,8 +9,6 @@ A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking
 ## 📐 Scale Standard & Precision
 
 * **Global Scale Ratio:** `1 mm ≈ 3.778 px`
-* **Standard RJ45 Port Width:** `51 px` (~13.5 mm)
-* **Precision Scope:** Dimensions strictly follow the interior functional front panel housing ports and LEDs (excluding rack ears, removable bases, or secondary mounting brackets).
 
 ---
 
