@@ -1,4 +1,4 @@
-# MikroTik Vector Stencils & Icons for Figma, Visio & Illustrator
+# MikroTik Vector Stencils for Figma, Visio & Illustrator
 
 A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking hardware. Designed for network topology diagrams in **Figma**, **Visio**, **Adobe Illustrator**, or any SVG-compatible vector editor.
 
