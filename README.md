@@ -2,7 +2,7 @@
 
 A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking hardware. Designed for network topology diagrams in **Figma**, **Visio**, **Adobe Illustrator**, or any SVG-compatible vector editor.
 
-![MikroTik Stencils Preview](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB1000U.svg)
+![MikroTik Stencils Preview](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB3011UiAS-RM.svg)
 
 ---
 
