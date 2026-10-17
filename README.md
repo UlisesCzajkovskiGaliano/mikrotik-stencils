@@ -2,9 +2,13 @@
 
 A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking hardware. Designed for network topology diagrams in **Figma**, **Visio**, **Adobe Illustrator**, or any SVG-compatible vector editor.
 
-![MikroTik Stencils Preview - Router](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB3011UiAS-RM.svg)
-![MikroTik Stencils Preview - Switch](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/switches/CRS354-48G-4S%2B2Q%2BRM.svg)
-![MikroTik Stencils Preview - hEX S](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX%20S.svg)
+<img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/switches/CRS354-48G-4S%2B2Q%2BRM.svg" width="100%" alt="CRS354-48G-4S+2Q+RM">
+
+<div style="display: flex; justify-content: space-between; gap: 10px; width: 100%;">
+  <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB3011UiAS-RM.svg" style="width: 32%; object-fit: contain;" alt="RB3011UiAS-RM">
+  <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX%20S.svg" style="width: 32%; object-fit: contain;" alt="hEX S">
+  <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hAP%20ac%20lite.svg" style="width: 32%; object-fit: contain;" alt="hAP ac lite">
+</div>
 
 ---
 
