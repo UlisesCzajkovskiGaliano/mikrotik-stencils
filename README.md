@@ -5,19 +5,9 @@ A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking
 <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB3011UiAS-RM.svg" width="100%" alt="RB3011UiAS-RM">
 <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/switches/CRS354-48G-4S%2B2Q%2BRM.svg" width="100%" alt="CRS354-48G-4S+2Q+RM">
 
-<table width="100%" style="width:100%; table-layout:fixed; border-collapse:collapse;">
-  <tr>
-    <td width="33.33%" align="center" style="padding:0; border:none;">
-      <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX.svg" width="100%" alt="hEX">
-    </td>
-    <td width="33.33%" align="center" style="padding:0; border:none;">
-      <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hAP%20ac%20lite.svg" width="100%" alt="hAP ac lite">
-    </td>
-    <td width="33.33%" align="center" style="padding:0; border:none;">
-      <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX%20S.svg" width="100%" alt="hEX S">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX.svg" width="32.8%" alt="hEX">&nbsp;<img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hAP%20ac%20lite.svg" width="32.8%" alt="hAP ac lite">&nbsp;<img src="https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/hEX%20S.svg" width="32.8%" alt="hEX S">
+</p>
 
 ---
 
