@@ -4,6 +4,7 @@ A collection of 100+ 2D vector stencils and diagrams for **MikroTik** networking
 
 ![MikroTik Stencils Preview - Router](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/routers/RB3011UiAS-RM.svg)
 ![MikroTik Stencils Preview - Switch](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/switches/CRS354-48G-4S%2B2Q%2BRM.svg)
+![MikroTik Stencils Preview - Switch](https://raw.githubusercontent.com/UlisesCzajkovskiGaliano/mikrotik-stencils/main/switches/hEX-S.svg)
 
 ---
 
